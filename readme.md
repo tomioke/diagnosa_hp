@@ -3,6 +3,11 @@
 Sistem Pakar Diagnosa Kerusakan Smartphone Android menggunakan metode forward chaining
 <br>
 
+# Information
+
+- Nama : Tomi Irvan Oktavianto
+- NIM : 1903040037
+
 ## How to instsall
 
 - Download / clone this repository
