@@ -8,7 +8,7 @@ Sistem Pakar Diagnosa Kerusakan Smartphone Android menggunakan metode forward ch
 - Nama : Tomi Irvan Oktavianto
 - NIM : 1903040037
 
-## How to instsall
+## How to install
 
 - Download / clone this repository
 - move diagnosa_hp folder to htdocs
